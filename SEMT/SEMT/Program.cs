@@ -7,6 +7,7 @@ namespace SEMT
         static void Main(string[] args)
         {
             Console.WriteLine("MAMAKLIYIZ GARDAŞ!");
+            Console.WriteLine("Aynen brooo");
         }
     }
 }
