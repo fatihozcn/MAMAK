@@ -10,6 +10,7 @@ namespace SEMT
             Console.WriteLine("Aynen brooo");
             Console.WriteLine("Olsun mu olmasın mı");
             Console.WriteLine("Mühendiz AHMET");
+            Console.WriteLine("Helal kankam");
         }
     }
 }
